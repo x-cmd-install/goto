@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3711078,
       "digest": "sha256:1dd479db6717216faef0996616aa16554c74a5cdaaeb0f197ab661fb18a02dd6",
-      "download_count": 246,
+      "download_count": 247,
       "created_at": "2026-06-08T22:02:44Z",
       "updated_at": "2026-06-08T22:02:45Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_linux_amd64.tar.gz"
