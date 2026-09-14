@@ -14,14 +14,14 @@ x install goto
 
 ## Code insight
 
-Total: **10,287** lines of code across **123** files in the top 5 languages.
+Total: **10,710** lines of code across **127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 9,601 | 1,232 | 1,740 | 86 |
-| Yaml | 330 | 0 | 0 | 32 |
+| Go | 9,998 | 1,243 | 1,792 | 88 |
+| Yaml | 355 | 0 | 0 | 34 |
 | Sh | 143 | 13 | 35 | 3 |
-| Makefile | 78 | 14 | 10 | 1 |
+| Makefile | 79 | 14 | 10 | 1 |
 | Svg | 69 | 0 | 0 | 1 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **10,287** lines of code across **123** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.1` (2026-06-08)
-- **Last commit**: 2026-07-09
+- **Last commit**: 2026-09-13
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 533 · **Forks**: 32 · **Open issues**: 70 · **Contributors**: 5
+- **Stars**: 533 · **Forks**: 32 · **Open issues**: 71 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 70 · **Open PRs**: 1 · **Closed issues**: 59 · **Open issues**: 11 · **Commits**: 252
+- **Releases**: 20 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 60 · **Open issues**: 11 · **Commits**: 253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 0 | 1 | 1 |
-| last180d | 2026-03-17 | 2 | 7 | 1 | 3 | 3 | 22 |
-| 360d | 2025-09-18 | 4 | 21 | 1 | 14 | 6 | 54 |
-| last720d | 2024-09-23 | 10 | 33 | 1 | 26 | 10 | 90 |
+| 30d | 2026-08-15 | 0 | 1 | 0 | 0 | 1 | 1 |
+| last60d | 2026-07-16 | 0 | 1 | 0 | 0 | 1 | 1 |
+| 90d | 2026-06-16 | 0 | 1 | 0 | 1 | 1 | 2 |
+| last180d | 2026-03-18 | 2 | 8 | 0 | 4 | 3 | 23 |
+| 360d | 2025-09-19 | 4 | 22 | 0 | 15 | 6 | 55 |
+| last720d | 2024-09-24 | 10 | 34 | 0 | 27 | 10 | 91 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Total: **10,287** lines of code across **123** files in the top 5 languages.
 | [goto_1.6.1_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_windows_amd64.zip) | 3.7 MiB | `native/win/x64` |
 | [goto_1.6.1_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_windows_arm64.zip) | 3.3 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/goto). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.0.0` | ✅ latest |
-| Nix unstable | `2.1.0-unstable-2020-11-15` | ignored |
-
 ## Improve this data
 
 Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goto` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:18:37Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:29:18Z._
