@@ -32,7 +32,7 @@ Total: **10,710** lines of code across **127** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.1` (2026-06-08)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 11
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **10,710** lines of code across **127** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 60 · **Open issues**: 11 · **Commits**: 253
+- **Releases**: 20 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 60 · **Open issues**: 11 · **Commits**: 254
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 0 | 0 | 1 | 1 |
-| last60d | 2026-07-16 | 0 | 1 | 0 | 0 | 1 | 1 |
-| 90d | 2026-06-16 | 0 | 1 | 0 | 1 | 1 | 2 |
-| last180d | 2026-03-18 | 2 | 8 | 0 | 4 | 3 | 23 |
-| 360d | 2025-09-19 | 4 | 22 | 0 | 15 | 6 | 55 |
-| last720d | 2024-09-24 | 10 | 34 | 0 | 27 | 10 | 91 |
+| 30d | 2026-08-16 | 0 | 1 | 0 | 0 | 1 | 2 |
+| last60d | 2026-07-17 | 0 | 1 | 0 | 0 | 1 | 2 |
+| 90d | 2026-06-17 | 0 | 1 | 0 | 1 | 1 | 3 |
+| last180d | 2026-03-19 | 2 | 8 | 0 | 4 | 3 | 24 |
+| 360d | 2025-09-20 | 4 | 22 | 0 | 15 | 6 | 56 |
+| last720d | 2024-09-25 | 10 | 34 | 0 | 27 | 10 | 92 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:29:18Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:28:23Z._
