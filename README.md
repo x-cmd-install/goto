@@ -41,18 +41,18 @@ Total: **10,886** lines of code across **128** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 73 · **Open PRs**: 1 · **Closed issues**: 61 · **Open issues**: 11 · **Commits**: 255
+- **Releases**: 20 · **Merged PRs**: 73 · **Open PRs**: 2 · **Closed issues**: 61 · **Open issues**: 11 · **Commits**: 255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 1 | 1 | 1 | 1 | 1 |
-| last60d | 2026-08-13 | 0 | 2 | 1 | 1 | 1 | 3 |
-| 90d | 2026-07-14 | 0 | 2 | 1 | 1 | 1 | 3 |
-| last180d | 2026-04-15 | 2 | 9 | 1 | 5 | 3 | 18 |
-| 360d | 2025-10-17 | 4 | 24 | 1 | 15 | 6 | 58 |
-| last720d | 2024-10-22 | 9 | 35 | 1 | 26 | 10 | 89 |
+| 30d | 2026-09-13 | 0 | 1 | 2 | 0 | 1 | 1 |
+| last60d | 2026-08-14 | 0 | 2 | 2 | 1 | 1 | 3 |
+| 90d | 2026-07-15 | 0 | 2 | 2 | 1 | 1 | 3 |
+| last180d | 2026-04-16 | 2 | 8 | 2 | 5 | 3 | 18 |
+| 360d | 2025-10-18 | 4 | 24 | 2 | 15 | 6 | 58 |
+| last720d | 2024-10-23 | 9 | 35 | 2 | 26 | 10 | 89 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:21:48Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:13:01Z._
