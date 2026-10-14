@@ -14,13 +14,13 @@ x install goto
 
 ## Code insight
 
-Total: **10,886** lines of code across **128** files in the top 5 languages.
+Total: **11,160** lines of code across **140** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,166 | 1,260 | 1,823 | 89 |
-| Yaml | 363 | 0 | 1 | 34 |
-| Sh | 143 | 13 | 35 | 3 |
+| Go | 10,335 | 1,273 | 1,851 | 90 |
+| Yaml | 457 | 0 | 1 | 45 |
+| Sh | 154 | 14 | 38 | 3 |
 | Makefile | 79 | 14 | 10 | 1 |
 | Svg | 69 | 0 | 0 | 1 |
 
@@ -32,27 +32,27 @@ Total: **10,886** lines of code across **128** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.1` (2026-06-08)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-13
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 533 · **Forks**: 33 · **Open issues**: 72 · **Contributors**: 6
+- **Stars**: 532 · **Forks**: 33 · **Open issues**: 72 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 73 · **Open PRs**: 2 · **Closed issues**: 61 · **Open issues**: 11 · **Commits**: 255
+- **Releases**: 20 · **Merged PRs**: 74 · **Open PRs**: 1 · **Closed issues**: 62 · **Open issues**: 10 · **Commits**: 256
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-14 | 0 | 2 | 2 | 1 | 1 | 3 |
-| 90d | 2026-07-15 | 0 | 2 | 2 | 1 | 1 | 3 |
-| last180d | 2026-04-16 | 2 | 8 | 2 | 5 | 3 | 18 |
-| 360d | 2025-10-18 | 4 | 24 | 2 | 15 | 6 | 58 |
-| last720d | 2024-10-23 | 9 | 35 | 2 | 26 | 10 | 89 |
+| 30d | 2026-09-14 | 0 | 2 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-15 | 0 | 3 | 1 | 1 | 1 | 4 |
+| 90d | 2026-07-16 | 0 | 3 | 1 | 1 | 1 | 4 |
+| last180d | 2026-04-17 | 2 | 9 | 1 | 5 | 3 | 19 |
+| 360d | 2025-10-19 | 4 | 25 | 1 | 15 | 6 | 59 |
+| last720d | 2024-10-24 | 9 | 36 | 1 | 27 | 9 | 90 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:13:01Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:21:05Z._
