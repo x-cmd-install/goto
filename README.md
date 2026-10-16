@@ -47,12 +47,12 @@ Total: **11,160** lines of code across **140** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 2 | 1 | 0 | 2 | 2 |
-| last60d | 2026-08-16 | 0 | 3 | 1 | 1 | 2 | 4 |
-| 90d | 2026-07-17 | 0 | 3 | 1 | 1 | 2 | 4 |
-| last180d | 2026-04-18 | 2 | 9 | 1 | 5 | 4 | 19 |
-| 360d | 2025-10-20 | 4 | 25 | 1 | 15 | 7 | 59 |
-| last720d | 2024-10-25 | 9 | 36 | 1 | 27 | 10 | 90 |
+| 30d | 2026-09-16 | 0 | 2 | 1 | 0 | 2 | 2 |
+| last60d | 2026-08-17 | 0 | 3 | 1 | 1 | 2 | 4 |
+| 90d | 2026-07-18 | 0 | 3 | 1 | 1 | 2 | 4 |
+| last180d | 2026-04-19 | 2 | 9 | 1 | 5 | 4 | 19 |
+| 360d | 2025-10-21 | 4 | 25 | 1 | 15 | 7 | 59 |
+| last720d | 2024-10-26 | 9 | 36 | 1 | 27 | 10 | 90 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:56:32Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:52:41Z._
