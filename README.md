@@ -14,13 +14,13 @@ x install goto
 
 ## Code insight
 
-Total: **11,160** lines of code across **140** files in the top 5 languages.
+Total: **12,248** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,335 | 1,273 | 1,851 | 90 |
-| Yaml | 457 | 0 | 1 | 45 |
-| Sh | 154 | 14 | 38 | 3 |
+| Go | 11,388 | 1,378 | 2,009 | 90 |
+| Yaml | 490 | 0 | 1 | 47 |
+| Sh | 156 | 14 | 40 | 3 |
 | Makefile | 79 | 14 | 10 | 1 |
 | Svg | 69 | 0 | 0 | 1 |
 
@@ -31,8 +31,8 @@ Total: **11,160** lines of code across **140** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.1` (2026-06-08)
-- **Last commit**: 2026-10-13
+- **Latest**: `v1.7.0` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 11
 
 ## Popularity
@@ -41,34 +41,34 @@ Total: **11,160** lines of code across **140** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 74 · **Open PRs**: 1 · **Closed issues**: 62 · **Open issues**: 11 · **Commits**: 256
+- **Releases**: 21 · **Merged PRs**: 76 · **Open PRs**: 0 · **Closed issues**: 64 · **Open issues**: 9 · **Commits**: 261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 2 | 1 | 0 | 2 | 2 |
-| 90d | 2026-08-17 | 0 | 3 | 1 | 1 | 2 | 4 |
-| last180d | 2026-05-19 | 2 | 6 | 1 | 3 | 4 | 14 |
-| 360d | 2025-11-20 | 4 | 20 | 1 | 14 | 6 | 48 |
-| last720d | 2024-11-25 | 9 | 34 | 1 | 26 | 10 | 87 |
+| 30d | 2026-10-17 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-17 | 1 | 4 | 0 | 0 | 2 | 7 |
+| 90d | 2026-08-18 | 1 | 5 | 0 | 1 | 2 | 9 |
+| last180d | 2026-05-20 | 3 | 8 | 0 | 3 | 4 | 19 |
+| 360d | 2025-11-21 | 5 | 22 | 0 | 15 | 5 | 53 |
+| last720d | 2024-11-26 | 10 | 36 | 0 | 28 | 8 | 92 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [goto-1.6.1.aarch64.rpm](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto-1.6.1.aarch64.rpm) | 3.2 MiB | `runtime/rpm/aarch64` |
-| [goto-1.6.1.x86_64.rpm](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto-1.6.1.x86_64.rpm) | 3.5 MiB | `runtime/rpm/x86_64` |
-| [goto_1.6.1_amd64.deb](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_amd64.deb) | 3.5 MiB | `runtime/deb/amd64` |
-| [goto_1.6.1_arm64.deb](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_arm64.deb) | 3.2 MiB | `runtime/deb/arm64` |
-| [goto_1.6.1_checksums.txt](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_checksums.txt) | 927 B | `other` |
-| [goto_1.6.1_darwin_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_darwin_amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
-| [goto_1.6.1_darwin_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [goto_1.6.1_linux_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
-| [goto_1.6.1_linux_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
-| [goto_1.6.1_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_windows_amd64.zip) | 3.7 MiB | `native/win/x64` |
-| [goto_1.6.1_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_windows_arm64.zip) | 3.3 MiB | `native/win/arm64` |
+| [goto-1.7.0.aarch64.rpm](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto-1.7.0.aarch64.rpm) | 3.3 MiB | `runtime/rpm/aarch64` |
+| [goto-1.7.0.x86_64.rpm](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto-1.7.0.x86_64.rpm) | 3.7 MiB | `runtime/rpm/x86_64` |
+| [goto_1.7.0_amd64.deb](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_amd64.deb) | 3.7 MiB | `runtime/deb/amd64` |
+| [goto_1.7.0_arm64.deb](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_arm64.deb) | 3.3 MiB | `runtime/deb/arm64` |
+| [goto_1.7.0_checksums.txt](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_checksums.txt) | 927 B | `other` |
+| [goto_1.7.0_darwin_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_darwin_amd64.tar.gz) | 3.7 MiB | `native/darwin/x64` |
+| [goto_1.7.0_darwin_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [goto_1.7.0_linux_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [goto_1.7.0_linux_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [goto_1.7.0_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip) | 3.8 MiB | `native/win/x64` |
+| [goto_1.7.0_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_arm64.zip) | 3.4 MiB | `native/win/arm64` |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:11:26Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:08:58Z._

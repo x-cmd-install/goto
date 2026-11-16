@@ -14,13 +14,13 @@ x install goto
 
 ## 代码洞察
 
-合计: **11,160** 行代码（覆盖前 5 种语言、共 **140** 个文件）。
+合计: **12,248** 行代码（覆盖前 5 种语言、共 **142** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 10,335 | 1,273 | 1,851 | 90 |
-| Yaml | 457 | 0 | 1 | 45 |
-| Sh | 154 | 14 | 38 | 3 |
+| Go | 11,388 | 1,378 | 2,009 | 90 |
+| Yaml | 490 | 0 | 1 | 47 |
+| Sh | 156 | 14 | 40 | 3 |
 | Makefile | 79 | 14 | 10 | 1 |
 | Svg | 69 | 0 | 0 | 1 |
 
@@ -31,8 +31,8 @@ x install goto
 
 ## 发布
 
-- **最新版本**: `v1.6.1` (2026-06-08)
-- **最近提交**: 2026-10-13
+- **最新版本**: `v1.7.0` (2026-11-15)
+- **最近提交**: 2026-11-15
 - **Release 含资产**: 11 个
 
 ## 流行度
@@ -41,34 +41,34 @@ x install goto
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 74 · **开放 PR**: 1 · **已关闭 issue**: 62 · **开放 issue**: 11 · **提交数**: 256
+- **发布数**: 21 · **已合并 PR**: 76 · **开放 PR**: 0 · **已关闭 issue**: 64 · **开放 issue**: 9 · **提交数**: 261
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 2 | 1 | 0 | 2 | 2 |
-| 90d | 2026-08-17 | 0 | 3 | 1 | 1 | 2 | 4 |
-| last180d | 2026-05-19 | 2 | 6 | 1 | 3 | 4 | 14 |
-| 360d | 2025-11-20 | 4 | 20 | 1 | 14 | 6 | 48 |
-| last720d | 2024-11-25 | 9 | 34 | 1 | 26 | 10 | 87 |
+| 30d | 2026-10-17 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-17 | 1 | 4 | 0 | 0 | 2 | 7 |
+| 90d | 2026-08-18 | 1 | 5 | 0 | 1 | 2 | 9 |
+| last180d | 2026-05-20 | 3 | 8 | 0 | 3 | 4 | 19 |
+| 360d | 2025-11-21 | 5 | 22 | 0 | 15 | 5 | 53 |
+| last720d | 2024-11-26 | 10 | 36 | 0 | 28 | 8 | 92 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [goto-1.6.1.aarch64.rpm](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto-1.6.1.aarch64.rpm) | 3.2 MiB | `runtime/rpm/aarch64` |
-| [goto-1.6.1.x86_64.rpm](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto-1.6.1.x86_64.rpm) | 3.5 MiB | `runtime/rpm/x86_64` |
-| [goto_1.6.1_amd64.deb](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_amd64.deb) | 3.5 MiB | `runtime/deb/amd64` |
-| [goto_1.6.1_arm64.deb](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_arm64.deb) | 3.2 MiB | `runtime/deb/arm64` |
-| [goto_1.6.1_checksums.txt](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_checksums.txt) | 927 B | `other` |
-| [goto_1.6.1_darwin_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_darwin_amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
-| [goto_1.6.1_darwin_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [goto_1.6.1_linux_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_linux_amd64.tar.gz) | 3.5 MiB | `native/linux/x64` |
-| [goto_1.6.1_linux_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_linux_arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
-| [goto_1.6.1_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_windows_amd64.zip) | 3.7 MiB | `native/win/x64` |
-| [goto_1.6.1_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.6.1/goto_1.6.1_windows_arm64.zip) | 3.3 MiB | `native/win/arm64` |
+| [goto-1.7.0.aarch64.rpm](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto-1.7.0.aarch64.rpm) | 3.3 MiB | `runtime/rpm/aarch64` |
+| [goto-1.7.0.x86_64.rpm](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto-1.7.0.x86_64.rpm) | 3.7 MiB | `runtime/rpm/x86_64` |
+| [goto_1.7.0_amd64.deb](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_amd64.deb) | 3.7 MiB | `runtime/deb/amd64` |
+| [goto_1.7.0_arm64.deb](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_arm64.deb) | 3.3 MiB | `runtime/deb/arm64` |
+| [goto_1.7.0_checksums.txt](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_checksums.txt) | 927 B | `other` |
+| [goto_1.7.0_darwin_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_darwin_amd64.tar.gz) | 3.7 MiB | `native/darwin/x64` |
+| [goto_1.7.0_darwin_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_darwin_arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [goto_1.7.0_linux_amd64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_amd64.tar.gz) | 3.7 MiB | `native/linux/x64` |
+| [goto_1.7.0_linux_arm64.tar.gz](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_arm64.tar.gz) | 3.3 MiB | `native/linux/arm64` |
+| [goto_1.7.0_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip) | 3.8 MiB | `native/win/x64` |
+| [goto_1.7.0_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_arm64.zip) | 3.4 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
@@ -88,4 +88,4 @@ goto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:11:26Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:08:58Z._
