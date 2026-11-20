@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3838824,
       "digest": "sha256:268df0a48bc5593b34e35db16b3d4b93ad75d10b08d2a68f758e410a56b064ea",
-      "download_count": 29,
+      "download_count": 34,
       "created_at": "2026-11-15T20:01:10Z",
       "updated_at": "2026-11-15T20:01:10Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3987587,
       "digest": "sha256:992cccc13988b6d5c2d98c8e43d0c2b41610c24b48fee3137fef07c58e31afd5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-15T20:01:11Z",
       "updated_at": "2026-11-15T20:01:11Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip"
