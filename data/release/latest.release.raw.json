@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3492622,
       "digest": "sha256:4229d96a45af7e8030e4086e1a72f9d12ab93610ee2801ba5be7bab41d97d7f1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-15T20:01:11Z",
       "updated_at": "2026-11-15T20:01:11Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto-1.7.0.aarch64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3835486,
       "digest": "sha256:1b6fabb39c1495bc7c211f8131cdca1e5c92c6f8aeae016a52f36ddbcaf93cc6",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-15T20:01:11Z",
       "updated_at": "2026-11-15T20:01:11Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto-1.7.0.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3839488,
       "digest": "sha256:e46e444660441b4d13eccf80a948a01c2862a9d9e78599f3c2976054c927ba6e",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-15T20:01:12Z",
       "updated_at": "2026-11-15T20:01:12Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3508194,
       "digest": "sha256:1b95be0a218cd42dd1842e5617970f03009c9b08dde5e37a443ad44670d9ed6d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-15T20:01:12Z",
       "updated_at": "2026-11-15T20:01:12Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_arm64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3878307,
       "digest": "sha256:a7bf6e4c15975f795c90b0a19b6fa1cb974524bf319a9d034fcbdc4bd0758ec3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-15T20:01:10Z",
       "updated_at": "2026-11-15T20:01:10Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_darwin_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3623747,
       "digest": "sha256:a2df68568acceefe711a2ce0179b8a4600c88556b81eb1001d19e40684984fad",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-15T20:01:10Z",
       "updated_at": "2026-11-15T20:01:12Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_darwin_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3838824,
       "digest": "sha256:268df0a48bc5593b34e35db16b3d4b93ad75d10b08d2a68f758e410a56b064ea",
-      "download_count": 49,
+      "download_count": 52,
       "created_at": "2026-11-15T20:01:10Z",
       "updated_at": "2026-11-15T20:01:10Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3507544,
       "digest": "sha256:748f3d560003b574ec70353623362eb95ceac5f435532dfdf4f31a869cda4ca2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-15T20:01:10Z",
       "updated_at": "2026-11-15T20:01:10Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3987587,
       "digest": "sha256:992cccc13988b6d5c2d98c8e43d0c2b41610c24b48fee3137fef07c58e31afd5",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-15T20:01:11Z",
       "updated_at": "2026-11-15T20:01:11Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3596805,
       "digest": "sha256:3d1c3bca5e1780a60dd0e959c840b9cc79d431a3f512ee7f40cfd43f4ce7ca86",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T20:01:10Z",
       "updated_at": "2026-11-15T20:01:10Z",
       "browser_download_url": "https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_arm64.zip"
