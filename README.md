@@ -37,22 +37,22 @@ Total: **12,248** lines of code across **142** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 533 · **Forks**: 35 · **Open issues**: 75 · **Contributors**: 6
+- **Stars**: 534 · **Forks**: 35 · **Open issues**: 77 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 76 · **Open PRs**: 3 · **Closed issues**: 64 · **Open issues**: 11 · **Commits**: 262
+- **Releases**: 21 · **Merged PRs**: 76 · **Open PRs**: 5 · **Closed issues**: 64 · **Open issues**: 13 · **Commits**: 262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 1 | 3 | 0 | 2 | 6 |
-| last60d | 2026-09-25 | 1 | 3 | 3 | 0 | 4 | 8 |
-| 90d | 2026-08-26 | 1 | 5 | 3 | 1 | 4 | 10 |
-| last180d | 2026-05-28 | 3 | 7 | 3 | 3 | 6 | 15 |
-| 360d | 2025-11-29 | 4 | 17 | 3 | 11 | 7 | 41 |
-| last720d | 2024-12-04 | 10 | 36 | 3 | 28 | 10 | 93 |
+| 30d | 2026-10-26 | 1 | 1 | 5 | 0 | 4 | 6 |
+| last60d | 2026-09-26 | 1 | 3 | 5 | 0 | 6 | 8 |
+| 90d | 2026-08-27 | 1 | 5 | 5 | 1 | 6 | 10 |
+| last180d | 2026-05-29 | 3 | 7 | 5 | 3 | 8 | 15 |
+| 360d | 2025-11-30 | 4 | 17 | 5 | 11 | 9 | 41 |
+| last720d | 2024-12-05 | 10 | 35 | 5 | 27 | 12 | 93 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Total: **12,248** lines of code across **142** files in the top 5 languages.
 | [goto_1.7.0_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip) | 3.8 MiB | `native/win/x64` |
 | [goto_1.7.0_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_arm64.zip) | 3.4 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/goto). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.0.0` | ✅ latest |
-| Nix unstable | `2.1.0-unstable-2020-11-15` | ignored |
-
 ## Improve this data
 
 Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goto` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:50:02Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:53:51Z._

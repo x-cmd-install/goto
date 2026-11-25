@@ -37,22 +37,22 @@ x install goto
 
 ## 流行度
 
-- **Star**: 533 · **Fork**: 35 · **开放 issue**: 75 · **贡献者**: 6
+- **Star**: 534 · **Fork**: 35 · **开放 issue**: 77 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 76 · **开放 PR**: 3 · **已关闭 issue**: 64 · **开放 issue**: 11 · **提交数**: 262
+- **发布数**: 21 · **已合并 PR**: 76 · **开放 PR**: 5 · **已关闭 issue**: 64 · **开放 issue**: 13 · **提交数**: 262
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 1 | 3 | 0 | 2 | 6 |
-| last60d | 2026-09-25 | 1 | 3 | 3 | 0 | 4 | 8 |
-| 90d | 2026-08-26 | 1 | 5 | 3 | 1 | 4 | 10 |
-| last180d | 2026-05-28 | 3 | 7 | 3 | 3 | 6 | 15 |
-| 360d | 2025-11-29 | 4 | 17 | 3 | 11 | 7 | 41 |
-| last720d | 2024-12-04 | 10 | 36 | 3 | 28 | 10 | 93 |
+| 30d | 2026-10-26 | 1 | 1 | 5 | 0 | 4 | 6 |
+| last60d | 2026-09-26 | 1 | 3 | 5 | 0 | 6 | 8 |
+| 90d | 2026-08-27 | 1 | 5 | 5 | 1 | 6 | 10 |
+| last180d | 2026-05-29 | 3 | 7 | 5 | 3 | 8 | 15 |
+| 360d | 2025-11-30 | 4 | 17 | 5 | 11 | 9 | 41 |
+| last720d | 2024-12-05 | 10 | 35 | 5 | 27 | 12 | 93 |
 
 ## Release 资产
 
@@ -70,15 +70,6 @@ x install goto
 | [goto_1.7.0_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip) | 3.8 MiB | `native/win/x64` |
 | [goto_1.7.0_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_arm64.zip) | 3.4 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/goto) 上共有 **10** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.0.0` | ✅ latest |
-| Nix unstable | `2.1.0-unstable-2020-11-15` | ignored |
-
 ## 改进这些数据
 
 goto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goto` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +79,4 @@ goto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:50:02Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:53:51Z._
