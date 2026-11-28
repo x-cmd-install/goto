@@ -47,12 +47,12 @@ Total: **12,394** lines of code across **142** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 4 | 3 | 2 | 3 | 13 |
-| last60d | 2026-09-28 | 1 | 6 | 3 | 2 | 5 | 15 |
-| 90d | 2026-08-29 | 1 | 8 | 3 | 3 | 5 | 17 |
-| last180d | 2026-05-31 | 3 | 9 | 3 | 5 | 6 | 22 |
-| 360d | 2025-12-02 | 4 | 20 | 3 | 13 | 6 | 48 |
-| last720d | 2024-12-07 | 10 | 38 | 3 | 30 | 10 | 98 |
+| 30d | 2026-10-29 | 1 | 4 | 3 | 2 | 3 | 13 |
+| last60d | 2026-09-29 | 1 | 6 | 3 | 2 | 5 | 15 |
+| 90d | 2026-08-30 | 1 | 8 | 3 | 3 | 5 | 17 |
+| last180d | 2026-06-01 | 2 | 9 | 3 | 5 | 6 | 22 |
+| 360d | 2025-12-03 | 4 | 19 | 3 | 13 | 6 | 48 |
+| last720d | 2024-12-08 | 10 | 38 | 3 | 30 | 10 | 98 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Total: **12,394** lines of code across **142** files in the top 5 languages.
 | [goto_1.7.0_windows_amd64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_amd64.zip) | 3.8 MiB | `native/win/x64` |
 | [goto_1.7.0_windows_arm64.zip](https://github.com/grafviktor/goto/releases/download/v1.7.0/goto_1.7.0_windows_arm64.zip) | 3.4 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/goto). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.0.0` | ✅ latest |
-| Nix unstable | `2.1.0-unstable-2020-11-15` | ignored |
-
 ## Improve this data
 
 Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goto` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +79,4 @@ Install metadata for goto lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:12:44Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:15:56Z._
